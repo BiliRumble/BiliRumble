@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2 align="center">Hi there👋, I'm rumble </h2>
+<h3 align="center">A student from China。</h3>
 
-<!--
-**BiliRumble/BiliRumble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ A Few Quick Facts
 
-Here are some ideas to get you started:
+<img align="right" src="https://moe-counter.glitch.me/get/@:bilirumble?theme=rule34">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+    <li> 🌱 I’m currently learning TypeScript、Vue3.</li>
+</ul>
+
+### 🌗 Development Breakdown
+
+<img src="https://github-stats.ubrong.com/api?username=bilirumble&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true">
+<img src="https://github-stats.ubrong.com/api/top-langs?username=bilirumble&layout=compact&langs_count=10&text_color=718096&bg_color=00000000&hide_border=true">
