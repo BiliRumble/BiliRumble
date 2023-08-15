@@ -3,6 +3,7 @@
 
 ### ✨ A Few Quick Facts
 
+<h3 align="right">👋Number of views</h4>
 <img align="right" src="https://moe-counter.glitch.me/get/@:bilirumble?theme=rule34">
 
 <ul>
