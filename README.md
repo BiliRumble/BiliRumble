@@ -1,5 +1,5 @@
 <h2 align="center">Hi there👋, I'm rumble </h2>
-<h3 align="center">A student from China。</h3>
+<h3 align="center">A student from China</h3>
 
 ### ✨ A Few Quick Facts
 
