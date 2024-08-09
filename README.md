@@ -7,7 +7,7 @@
 <img align="right" src="https://moe-counter.glitch.me/get/@:bilirumble?theme=rule34">
 
 <ul>
-    <li> 🌱 I’m currently learning TypeScript、Vue3.</li>
+    <li> 🌱 I’m currently learning Kotlin.</li>
 </ul>
 
 ### 🌗 Development Breakdown
