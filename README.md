@@ -12,5 +12,6 @@
 
 ### 🌗 Development Breakdown
 
-<img src="https://github-stats.ubrong.com/api?username=bilirumble&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true">
-<img src="https://github-stats.ubrong.com/api/top-langs?username=bilirumble&layout=compact&langs_count=10&text_color=718096&bg_color=00000000&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=bilirumble&theme=blueberry&show_icons=true&hide_border=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilirumble&theme=blueberry&show_icons=true&hide_border=true&layout=compact">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bilirumble&theme=blueberry&hide_border=true">
