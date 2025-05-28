@@ -1,5 +1,6 @@
 ```assembly
 ; GitHub Profile Generator v1.145.1.4
+; Assembled on 2025-05-29 | Architecture: x86-64
 ; Registers used:
 ;   EAX: Markdown output buffer
 ;   EBX: Theme selector (0xDEADBEEF)
@@ -44,10 +45,10 @@ _start:
     call _print_md
     
     mov ecx, 5                    ; loop?
-    .game_loop:
+    .loop:
         push ecx                 ; ヾ(≧▽≦*)o
         add byte [bin+ecx], 0x00
-        loop .game_loop
+        loop .loop
     
     mov eax, stats1
     call _print_md
