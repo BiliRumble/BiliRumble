@@ -8,7 +8,7 @@
 ;   EDX: Data pointer
 
 SECTION .data
-    header      db  '`Yo~ Rumble 🎮✨ | Fujian🌏 | Game & Anime Trash | H5/UNOCSS/TS + Kotlin + Rust | Ciallo～(∠・ω< )⌒★`',0
+    header      db  '`Yo~ rumble 🎮✨ | Fujian🌏 | Game & Anime Trash | Ciallo～(∠・ω< )⌒★`',0
     view_tag    db  '<h3 align="right">👋Number of views</h4>',0
     counter     db  '<img align="right" src="https://moe-counter.glitch.me/get/@:bilirumble?theme=rule34">',0
     dev_title   db  '### 🌗 Development Breakdown',0
@@ -68,7 +68,7 @@ _print_md:
     ret
 ```
 
-`Yo~ Rumble 🎮✨ | Fujian🌏 | Game & Anime Trash | H5/UNOCSS/TS + Kotlin + Rust | Ciallo～(∠・ω< )⌒★`
+`Yo~ rumble 🎮✨ | Fujian🌏 | Game & Anime Trash | Ciallo～(∠・ω< )⌒★`
 
 <h3 align="right">👋Number of views</h4>
 <img align="right" src="https://moe-counter.glitch.me/get/@:bilirumble?theme=rule34">
